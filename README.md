@@ -85,10 +85,10 @@ A classic Snake game implementation — where the fundamentals started.
 <h2 align="center">Connect With Me</h2>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/" target="_blank">
+<a href="https://www.linkedin.com/in/subhan-azhar/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>&nbsp;
-<a href="mailto:YOUR-EMAIL@gmail.com" target="_blank">
+<a href="mailto:subhansandhu312@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>&nbsp;
 </p>
