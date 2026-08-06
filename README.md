@@ -100,14 +100,12 @@ A classic Snake game implementation — where the fundamentals started.
 <br/>
 
 <p align="center">
-<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SubhanSandhu312&theme=tokyonight" alt="Stats"/>
-<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SubhanSandhu312&theme=tokyonight" alt="Top Languages"/>
-<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SubhanSandhu312&theme=tokyonight" alt="Most Commit Language"/>
-<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SubhanSandhu312&theme=tokyonight&utcOffset=5" alt="Productive Time"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SubhanSandhu312&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats"/>
+<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhanSandhu312&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
-<img width="99%" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhanSandhu312&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img width="60%" src="https://streak-stats.demolab.com/?user=SubhanSandhu312&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
